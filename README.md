@@ -30,5 +30,5 @@ A Python project that allows users to add, view, search, and delete personal not
 - Organize notes into categories
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
 
